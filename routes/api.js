@@ -9,10 +9,10 @@ var lolkill = db.get("lolkill");
 	console.log('')
 }
 
-var creator = ['ItsmeDann & RafliiXsec'];
+var creator = ['REST APIs - X - PINO WEBDEV'];
 
 
-keyapi = 'Skullcyberarmy'
+keyapi = 'Kontol'
 
 var axios = require('axios');
 var qs = require('qs');
